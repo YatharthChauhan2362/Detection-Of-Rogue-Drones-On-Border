@@ -1,6 +1,12 @@
 # Decaying-And-Rusting-Of-Border-Defence-Infrastructure
 Border Security Force (BSF)
 
+## Contrbutors:
+
+Yatharth Chauhan
+
+Karan Bhatt
+
 
 
 | Title                                   | Problem Statement                              |
