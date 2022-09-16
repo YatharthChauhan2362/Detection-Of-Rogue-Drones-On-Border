@@ -2,6 +2,7 @@
 Organized by Education Department (Higher & Technical)
 Government of Gujarat.
 
+![Azadi Ka Amrit Mahotsav Hackathon 2022](https://user-images.githubusercontent.com/75237577/190621030-6e3ff3cb-2dc2-40ca-8c74-01f566465d98.png)
 
 # Problem Statement: Detection Of Rogue Drones On Border
 ### Industry: Border Security Force (BSF)
