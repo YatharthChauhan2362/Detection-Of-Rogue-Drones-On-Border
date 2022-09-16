@@ -1,5 +1,10 @@
-# Detection Of Rogue Drones On Border
-Border Security Force (BSF)
+# Azadi Ka Amrit Mahotsav Hackathon 2022
+Organized by Education Department (Higher & Technical)
+Government of Gujarat.
+
+
+# Problem Statement: Detection Of Rogue Drones On Border
+### Industry: Border Security Force (BSF)
 
 
 ## Contributors:
