@@ -1,4 +1,5 @@
 # Detection Of Rogue Drones On Border
+Border Security Force (BSF)
 
 
 ## Contributors:
@@ -15,7 +16,7 @@ Karan Bhatt
 | Name of the Industry	                  | Border Security Force (BSF)                    |
 | Type of Industry                        | Other Government Office                        |
 | Problem Statement	                      | Decaying And Rusting Of Border Defence Infrastructure |
-| Challenge description witd context      | The Border Fencing and Civil works in the Rann/Creek area face decaying and rusting problems due to the typical nature of environmental peculiarities and get damages/reduced life years. This problem is peculiar to Rann/Creek area, resulting in frequent structural damages to national security infrastructure. |
-| Users                                   | Soldiers, Administrators |
-| Expected Outcomes                       | To study and develop appropriate material /combination of mettle suitable to withstand these deviations caused due to environmental factors to prevent decaying & rusting to increase the life of constructed buildings/border fencing. |
-| Potential Impact                        | Security, Environmental, Infrastructural  |
+| Challenge description witd context      | Regular attempts are made on the border by sending low flying drones to get sensitive information/ movements in the border area. As the fly path of these drones is low to be detected by radars, so detecting these rogue drones during the night becomes difficult by naked eyes. So, on ground troops face problems in locating & tracking to take further neutralization action. |
+| Users                                   | Soldiers |
+| Expected Outcomes                       | A system, which could detect these rogue drones with their height & distance within the range limit of 1 km and disrupt its mission by jamming. So that the border deployed Jawans could detect these flying objects/ drones easily and track to neutralize/ destroy it by above jamming/ manual firing on that. |
+| Potential Impact                        | Monitoring and Patrolling  |
